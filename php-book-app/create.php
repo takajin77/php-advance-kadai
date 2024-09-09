@@ -76,7 +76,7 @@ try{
     </nav>
   </header>
   <main>
-    <article class="books">
+    <article class="registration">
       <h1>書籍登録</h1>
       <div class="back">
         <a href="read.php" class="btn">&lt; 戻る</a>
